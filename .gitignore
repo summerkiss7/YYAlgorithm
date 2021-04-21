@@ -1,0 +1,52 @@
+##############
+### client ###
+##############
+
+# compiled output
+dist
+tmp
+out-tsc
+
+# dependencies
+node_modules
+
+# ides and editors
+.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode
+
+
+# system files
+.DS_Store
+Thumbs.db
+
+
+##############
+### server ###
+##############
+
+# maven
+target/
+META-INF/
+
+# sts
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+
+# intellij idea
+.idea
+*.iws
+*.iml
+*.ipr
+
